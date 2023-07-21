@@ -1,4 +1,4 @@
-# Decision--Tree-Classifier-generationDecision--Tree-Classifier-generation
+# Decision--Tree-Classifier-generationDecision
 
 Go through the attached 'CAR Dataset' (DS & information) file. 
 
